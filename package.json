@@ -1,4 +1,18 @@
 {
+  "name": "jn-common-code-specification",
+  "description": "## 前端代码规范",
+  "version": "1.0.0",
+  "main": "readme.md",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nuibia/common-code-specification.git"
+  },
+  "author": "jiangniao",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nuibia/common-code-specification/issues"
+  },
+  "homepage": "https://github.com/Nuibia/common-code-specification#readme",
   "devDependencies": {
     "eslint": "^8.29.0",
     "eslint-config-prettier": "^8.5.0",
