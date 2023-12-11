@@ -1,14 +1,8 @@
-# common-code-specification
-
-## 前端代码规范
-
-## 使用工具
-
-ESLint
-Prettier
-commitlint
-husky + lint-staged
-
-## 对应文章
-
-[项目开发时，我为保证团队代码质量做的那些事儿](https://juejin.cn/post/7174720036924293176/)
+# common-code-specification 前端代码规范包
+## 描述
+内置代码规范规则集合，项目引用该npm包中的规则即可
+## 包含
+### eslint配置
+### stylelint规则
+### Prettier规则
+## 使用方法
