@@ -1,6 +1,6 @@
 {
   "name": "jn-common-code-specification",
-  "version": "1.0.0",
+  "version": "1.0.4",
   "description": "前端规范",
   "main": "dist",
   "scripts": {
@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Nuibia/common-code-specification/issues"
   },
-  "homepage": "https://github.com/Nuibia/common-code-specification#readme"
+  "homepage": "https://github.com/Nuibia/common-code-specification#readme",
+  "devDependencies": {
+    "jn-common-code-specification": "^1.0.3"
+  }
 }
